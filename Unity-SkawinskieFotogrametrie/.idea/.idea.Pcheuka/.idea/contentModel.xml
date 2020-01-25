@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Olcia\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Olcia\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Pcheuka.1839437023.00" t="ExcludeRecursive" />
+    <e p="D:\Koniowe Rzeczy\Pcheuka" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="SimpleCameraController.cs" t="Include" />
+        </e>
+        <e p="SkawinskieFotogrametrieCore" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="InteractableActivateScript.cs" t="Include" />
+            <e p="InteractableAudioDiaryScript.cs" t="Include" />
+            <e p="InteractableBaseScript.cs" t="Include" />
+            <e p="InteractableInventoryItemScript.cs" t="Include" />
+            <e p="InteractableJournalScript.cs" t="Include" />
+            <e p="InteractablePickupScript.cs" t="Include" />
+            <e p="InteractableStaticScript.cs" t="Include" />
+            <e p="InteractionManagerScript.cs" t="Include" />
+            <e p="InventoryManagerScript.cs" t="Include" />
+            <e p="PutBackScript.cs" t="Include" />
+          </e>
+          <e p="Standard Assets" t="Include">
+            <e p="Characters" t="Include">
+              <e p="FirstPersonCharacter" t="Include">
+                <e p="FirstPersonCharacterGuidelines.txt" t="Include" />
+                <e p="Scripts" t="Include">
+                  <e p="FirstPersonController.cs" t="Include" />
+                  <e p="HeadBob.cs" t="Include" />
+                  <e p="MouseLook.cs" t="Include" />
+                  <e p="RigidbodyFirstPersonController.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="CrossPlatformInput" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="AxisTouchButton.cs" t="Include" />
+                <e p="ButtonHandler.cs" t="Include" />
+                <e p="CrossPlatformInputManager.cs" t="Include" />
+                <e p="InputAxisScrollbar.cs" t="Include" />
+                <e p="Joystick.cs" t="Include" />
+                <e p="MobileControlRig.cs" t="Include" />
+                <e p="PlatformSpecific" t="Include">
+                  <e p="MobileInput.cs" t="Include" />
+                  <e p="StandaloneInput.cs" t="Include" />
+                </e>
+                <e p="TiltInput.cs" t="Include" />
+                <e p="TouchPad.cs" t="Include" />
+                <e p="VirtualInput.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Utility" t="Include">
+              <e p="CurveControlledBob.cs" t="Include" />
+              <e p="FOVKick.cs" t="Include" />
+              <e p="LerpControlledBob.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TutorialInfo" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Pcheuka.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
